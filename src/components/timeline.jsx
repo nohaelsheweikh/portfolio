@@ -115,7 +115,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                        MERN Stack developer at 3ayez <span>june 2018 - November 2020</span>
+                        MERN Stack developer at 3ayez <span>june 2020 - November 2020</span>
                         </h2>
                         <p>
                         developing JavaScript applications using Node.js, Express, React.js, React Native and Mongo DB. 
