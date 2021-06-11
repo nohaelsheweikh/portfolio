@@ -100,6 +100,7 @@ export default class Timeline extends Component {
                           understanding of any problem and also my mathematical
                           skills to actually solve the problems.
                         </p>
+                        <a href="http://hoodeg.com/">View project</a>
                       </div>
                     </div>
                   </article>
@@ -115,7 +116,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                        MERN Stack developer at 3ayez <span>june 2020 - November 2020</span>
+                        MERN Stack developer at 3ayez <span>june 2018 - November 2018</span>
                         </h2>
                         <p>
                         developing JavaScript applications using Node.js, Express, React.js, React Native and Mongo DB. 
