@@ -121,7 +121,7 @@ export default class Timeline extends Component {
                         developing JavaScript applications using Node.js, Express, React.js, React Native and Mongo DB. 
                         </p>
                       </div>
-                    </div>
+                    </div> 
                   </article>
 
 
