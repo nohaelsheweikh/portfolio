@@ -9,7 +9,7 @@ import Testmonials from './components/Testmonials/testimonials'
 class App extends Component {
   render() {
     return (
-      <div id="colorlib-page">
+      <div id="colorlib-page"> 
         <div id="container-wrap">
          	<Sidebar></Sidebar> 
 				<div id="colorlib-main">

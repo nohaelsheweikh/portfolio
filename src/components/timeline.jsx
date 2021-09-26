@@ -18,6 +18,38 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Flutter & react native Mobile Developer{" "} at AppyVentures
+                          <span>  AppyVentures,London,UK</span>
+
+                          <span>  July 2021-present</span>
+                        </h2>
+                        <p>
+                        Designing and developing applications. 
+                        Work closely with the UI/UX team. Rapidly build
+                          prototypes/simulations from mockups that can be
+                          directly implemented. Create clean interfaces and
+                          smooth interactions based on UI/UX designs and
+                          documentation for a range of devices, including
+                          mobiles, tablets and desktops. 
+                          Investigate technologies.
+                          Follow innovative trends.
+                        </p>
+                        <a href="https://appyventures.com/team/">
+                          View Project
+                        </a>
+                      </div>
+                    </div>
+                  </article>
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
@@ -29,7 +61,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           CTO & co-founder at Crycl{" "}
-                          <span>june 2020-present</span>
+                          <span>june 2020-July 2021</span>
                         </h2>
                         <p>
                           makes all executive decisions with regards to the
