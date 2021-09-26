@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                     data-animate-effect="fadeInLeft"
                   >
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
