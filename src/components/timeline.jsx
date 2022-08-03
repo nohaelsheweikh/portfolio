@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                           Investigate technologies.
                           Follow innovative trends.
                         </p>
-                        <a href="https://appyventures.com/team/">
+                        <a href="https://appyventures.com/">
                           View Project
                         </a>
                       </div>
@@ -138,7 +138,7 @@ export default class Timeline extends Component {
                          frontend react / react native. We used NodeJs
                           (Net Sockets), Mongoose, 
                         </p>
-                        <a href="http://hoodeg.com/">View project</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.hood">View project</a>
                       </div>
                     </div>
                   </article>
