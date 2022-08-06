@@ -28,7 +28,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Senior frontend developer (Flutter & react native) {" "} at AppyVentures
+                          Senior frontend developer (Flutter & React Native) {" "} at AppyVentures
                           <span>  AppyVentures,London,UK</span>
 
                           <span>  July 2021-present</span>
@@ -125,7 +125,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Senior React / React Native developer at HOOD{" "}
+                          Senior Frontend developer (React/ React Native)  at HOOD{" "}
                           <span>2018-2020</span>
                         </h2>
                         <p>
