@@ -18,7 +18,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                <article
+                  <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
                   >
@@ -28,25 +28,22 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Senior frontend developer (Flutter & React Native) {" "} at AppyVentures
-                          <span>  AppyVentures,London,UK</span>
-
-                          <span>  July 2021-present</span>
+                          Senior frontend developer (Flutter & React Native) at
+                          AppyVentures
+                          <span> AppyVentures,London,UK</span>
+                          <span> July 2021-present</span>
                         </h2>
                         <p>
-                        Designing and developing applications. 
-                        Work closely with the UI/UX team. Rapidly build
+                          Designing and developing applications. Work closely
+                          with the UI/UX team. Rapidly build
                           prototypes/simulations from mockups that can be
                           directly implemented. Create clean interfaces and
                           smooth interactions based on UI/UX designs and
                           documentation for a range of devices, including
-                          mobiles, tablets and desktops. 
-                          Investigate technologies.
-                          Follow innovative trends.
+                          mobiles, tablets and desktops. Investigate
+                          technologies. Follow innovative trends.
                         </p>
-                        <a href="https://appyventures.com/">
-                          View Project
-                        </a>
+                        <a href="https://appyventures.com/">View Project</a>
                       </div>
                     </div>
                   </article>
@@ -125,8 +122,8 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Senior Frontend developer (React/ React Native)  at HOOD{" "}
-                          <span>2018-2020</span>
+                          Senior Frontend developer (React/ React Native) at
+                          HOOD <span>2018-2020</span>
                         </h2>
                         <p>
                           HOOD is an Automotive Telematics platform for fleet
@@ -135,10 +132,12 @@ export default class Timeline extends Component {
                           read data from it. and it also contains some motion
                           sensors to help with identifying different harsh
                           driving behavior habits. I am responsible for: -
-                         frontend react / react native. We used NodeJs
-                          (Net Sockets), Mongoose, 
+                          frontend react / react native. We used NodeJs (Net
+                          Sockets), Mongoose,
                         </p>
-                        <a href="https://play.google.com/store/apps/details?id=com.hood">View project</a>
+                        <a href="https://play.google.com/store/apps/details?id=com.hood">
+                          View project
+                        </a>
                       </div>
                     </div>
                   </article>
