@@ -15,9 +15,46 @@ export default class Timeline extends Component {
                 <h2 className="colorlib-heading animate-box">Timeline</h2>
               </div>
             </div>
+
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Senior Mobile developer at Jay Shetty Genius{" "}
+                          <span>USA, April 2024-present</span>
+                        </h2>
+                        <p>
+                         ● Resolved critical issues in the live React Native app, ensuring seamless user experience and stability.
+                          <br />
+                          ● Collaborated with cross-functional teams to migrate to a new platform, enhancing performance and scalability.
+                        </p>
+
+                        <div>
+                          <div>
+                            <a href="https://www.jayshetty.me/">Jay Shetty</a>
+                          </div>
+                          <div>
+                            <a href="https://play.google.com/store/apps/details?id=com.geniusapp&hl=en&gl=US">
+                              Google Play
+                            </a>
+                          </div>
+
+                          <a href="https://apps.apple.com/tr/app/genius-coaching/id1526271717">
+                            App Store
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </article>
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
@@ -28,19 +65,25 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Senior frontend developer (Flutter & React Native) at
-                          AppyVentures
-                          <span> AppyVentures,London,UK</span>
-                          <span> July 2021-present</span>
+                          Senior & frontend lead (Flutter / React Native / React
+                          JS) at AppyVentures{" "}
+                          <span>London,UK</span>
+                          <span> July 2021-Present</span>
                         </h2>
                         <p>
-                          Designing and developing applications. Work closely
-                          with the UI/UX team. Rapidly build
-                          prototypes/simulations from mockups that can be
-                          directly implemented. Create clean interfaces and
-                          smooth interactions based on UI/UX designs and
-                          documentation for a range of devices, including
-                          mobiles, tablets and desktops. Investigate
+                          I got hired first as a Flutter mobile developer in
+                          2021 then I got promoted to frontend lead. Overall in
+                          charge of the Frontend development in Appy. This means
+                          technology choices (languages and frameworks),
+                          hiring/managing frontend developers Leading the
+                          Frontend estimates and making sure they are realistic
+                          to help the commercial goals of Appy Designing and
+                          developing applications. Work closely with the UI/UX
+                          team. Rapidly build prototypes/simulations from
+                          mockups that can be directly implemented. Create clean
+                          interfaces and smooth interactions based on UI/UX
+                          designs and documentation for a range of devices,
+                          including mobiles, tablets and desktops. Investigate
                           technologies. Follow innovative trends.
                         </p>
                         <a href="https://appyventures.com/">View Project</a>
