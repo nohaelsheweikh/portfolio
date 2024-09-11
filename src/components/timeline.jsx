@@ -67,7 +67,7 @@ export default class Timeline extends Component {
                         <h2>
                           Senior & frontend lead (Flutter / React Native / React
                           JS) at AppyVentures{" "}
-                          <span>London,UK</span>
+                          <span>Farnham,UK</span>
                           <span> July 2021-Present</span>
                         </h2>
                         <p>
