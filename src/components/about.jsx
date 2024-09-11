@@ -13,9 +13,22 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I'm an ambitious and hard working software developer looking to facilitate solutions for teams allover the world.</p>
-                    <p>Strength in adaptability, leadership and learning capabilities. I am skilled in</p>   
-                    <p>Self-Taught Developer working on full-stack responsibilities and practical business solutions.</p>
+                    <p>
+                        I started my career as a self-taught programmer, diving into computer science through my own curiosity and dedication. 
+                        After gaining foundational knowledge, I pursued a <strong>Postgraduate Diploma in Computer Science</strong>, graduating with an impressive grade of <strong>A</strong>. 
+                        This marked the beginning of my professional journey, where I initially worked as a <strong>backend developer</strong>, honing my skills in building robust systems and managing complex infrastructures.
+                    </p>
+
+                    <p>
+                        As technology evolved, I embraced the challenge of switching to <strong>frontend</strong> and <strong>mobile development</strong>. 
+                        This transition allowed me to contribute to the creation of numerous successful apps, shaping user experiences and pushing the boundaries of what mobile platforms could achieve.
+                    </p>
+
+                    <p>
+                        In recognition of my commitment to learning and my accomplishments, I was accepted into the <strong>MSc program in Artificial Intelligence</strong> at <strong>Surrey University</strong>, 
+                        one of the UK's most credible institutions. I began this new chapter in <strong>September 2024</strong>, furthering my expertise in cutting-edge technologies and AI, 
+                        with plans to graduate in <strong>July 2025</strong>.
+                    </p>
 
                  </div>
                 </div>

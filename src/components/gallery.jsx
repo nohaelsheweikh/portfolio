@@ -21,6 +21,9 @@ export default class Gallery extends Component {
                       </span>
                       <h2 className="colorlib-heading">Education</h2>
                       <p>
+                      I am currently pursuing an MSc in Artificial Intelligence at Surrey University in the UK. My studies began in September 2024 and are scheduled to conclude in July 2025
+                      </p>
+                      <p>
                         2015 - 2018 Graduate Studies Comp.Science in computer
                         Arab Academy for Science, Technology and Maritime
                         Transport (AAST), Egypt
