@@ -68,7 +68,7 @@ export default class Timeline extends Component {
                           Senior & frontend lead (Flutter / React Native / React
                           JS) at AppyVentures{" "}
                           <span>Farnham,UK</span>
-                          <span> July 2021-Present</span>
+                          <span> July 2021-May 2024</span>
                         </h2>
                         <p>
                           I got hired first as a Flutter mobile developer in
