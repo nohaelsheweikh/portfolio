@@ -71,6 +71,34 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
+                          React Native & Flask Developer (Part-Time){" "}
+                          <span>Startup-United Kingdom, Feb 2025 – June 2025</span>
+                        </h2>
+                        <p>
+                          ● Contributed to a dynamic UK-based startup project
+                          during my MSc AI program, working across mobile
+                          development and backend API integration.
+                          <br />
+                          ● Developed features for a React Native app and built
+                          Flask-based APIs to support mobile functionality.
+                          <br />● Adapted to rapidly changing project
+                          requirements and delivered solutions within tight
+                          timelines.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
                           Senior Mobile developer at Jay Shetty Genius{" "}
                           <span>USA, April 2024-December 2024</span>
                         </h2>
