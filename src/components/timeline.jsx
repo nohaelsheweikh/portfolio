@@ -21,6 +21,48 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article
                     className="timeline-entry animate-box"
+                    data-animate-effect="fadeInRight"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Master's Degree in Artificial Intelligence, Surrey
+                          University
+                          <span>
+                            {" "}
+                            United Kingdom, September 2024 – August 2025
+                          </span>
+                        </h2>
+                        <p>
+                          This MSc program focuses on core areas in machine
+                          learning, deep learning, natural language processing,
+                          and AI ethics. Through hands-on coursework and
+                          practical projects, I have developed and deployed AI
+                          models using Python, Flask, and Hugging Face Spaces.
+                          My current research focuses on real-time cognitive
+                          load detection in virtual reality (VR), where I am
+                          developing a machine learning model and building a
+                          custom Unity application to collect and analyze user
+                          interaction data. As part of my Applied Machine
+                          Learning coursework, I fine-tuned a Swin Transformer
+                          Large model for scene recognition using the
+                          Places2_simp dataset (40 scene categories). I handled
+                          preprocessing, model setup, training, and evaluation.
+                          The model achieved 81.5% Top-1 accuracy and 98% Top-5
+                          accuracy on the validation set.
+                        </p>
+                        <a href="https://huggingface.co/spaces/Noha90/AML_16">
+                          {" "}
+                          You can view my deployed project here{" "}
+                        </a>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
                   >
                     <div className="timeline-entry-inner">
@@ -30,12 +72,14 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Senior Mobile developer at Jay Shetty Genius{" "}
-                          <span>USA, April 2024-present</span>
+                          <span>USA, April 2024-December 2024</span>
                         </h2>
                         <p>
-                         ● Resolved critical issues in the live React Native app, ensuring seamless user experience and stability.
-                          <br />
-                          ● Collaborated with cross-functional teams to migrate to a new platform, enhancing performance and scalability.
+                          ● Resolved critical issues in the live React Native
+                          app, ensuring seamless user experience and stability.
+                          <br />● Collaborated with cross-functional teams to
+                          migrate to a new platform, enhancing performance and
+                          scalability.
                         </p>
 
                         <div>
@@ -66,9 +110,8 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Senior & frontend lead (Flutter / React Native / React
-                          JS) at AppyVentures{" "}
-                          <span>Farnham,UK</span>
-                          <span> July 2021-May 2024</span>
+                          JS) at AppyVentures <span>Farnham,UK</span>
+                          <span> July 2021 - June 2024</span>
                         </h2>
                         <p>
                           I got hired first as a Flutter mobile developer in
