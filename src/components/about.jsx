@@ -17,47 +17,54 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I started my career as a self-taught programmer, driven
-                        by curiosity and a passion for technology. This
-                        foundation led me to pursue a{" "}
+                        I began my career as a self-taught programmer, driven by
+                        curiosity and a passion for creating technology that
+                        solves real problems. This early foundation led me to
+                        pursue a{" "}
                         <strong>
                           Postgraduate Diploma in Computer Science
                         </strong>
-                        , where I graduated with an <strong>A</strong> grade. I
-                        began my professional journey as a{" "}
-                        <strong>backend developer</strong>, primarily working
-                        with <strong>PHP</strong> to build and maintain robust
-                        systems.
+                        , graduating with an <strong>A</strong> grade. I started
+                        professionally as a <strong>backend developer</strong>,
+                        primarily working with <strong>PHP</strong> to build and
+                        maintain reliable, scalable systems.
                       </p>
 
                       <p>
-                        As technology and user needs evolved, I transitioned
-                        into <strong>frontend</strong> and{" "}
-                        <strong>mobile development</strong>, expanding my skills
-                        in <strong>React JS</strong>,{" "}
+                        As technology evolved, so did my interests. I
+                        transitioned into <strong>frontend</strong> and{" "}
+                        <strong>mobile development</strong>, expanding my
+                        expertise in <strong>React JS</strong>,{" "}
                         <strong>React Native</strong>, and{" "}
-                        <strong>Flutter</strong>. This shift allowed me to lead
-                        the development of several mobile applications,
-                        enhancing user experience and performance across
-                        platforms.
+                        <strong>Flutter</strong>. This shift enabled me to lead
+                        and deliver several mobile applications, focusing on
+                        performance, user experience, and cross-platform
+                        consistency.
                       </p>
 
                       <p>
-                        With a growing interest in intelligent systems and
-                        data-driven solutions, I strengthened my backend
-                        development skills using <strong>Python</strong> and{" "}
-                        <strong>Flask</strong>. In{" "}
-                        <strong>September 2024</strong>, I began an{" "}
-                        <strong>MSc in Artificial Intelligence</strong> at{" "}
-                        <strong>Surrey University</strong>, focusing on machine
-                        learning, deep learning, and deploying AI models to the
-                        cloud. Alongside my studies, I took on a new role as a{" "}
-                        <strong>Full Stack Developer</strong>, where I actively
-                        work with <strong>Python</strong> for backend
-                        development, integrate AI models, and build frontend
-                        features with modern frameworks. I'm set to graduate in{" "}
-                        <strong>August 2025</strong>, continuing to bridge
-                        academic research with real-world engineering practice.
+                        My growing interest in intelligent, data-driven systems
+                        motivated me to strengthen my backend development using{" "}
+                        <strong>Python</strong> and <strong>Flask</strong>. This
+                        path eventually led me to pursue and complete an{" "}
+                        <strong>MSc in Artificial Intelligence</strong> at the{" "}
+                        <strong>University of Surrey</strong>, graduating with{" "}
+                        <strong>Distinction</strong>. During the programme, I
+                        specialised in machine learning, deep learning, and
+                        deploying AI models to cloud platforms such as{" "}
+                        <strong>Google Cloud</strong>.
+                      </p>
+
+                      <p>
+                        Alongside my studies, I worked as a{" "}
+                        <strong>Full Stack Developer</strong>, applying AI in
+                        real-world systems by integrating Python-based backend
+                        services, building intelligent features, and continuing
+                        to develop modern, high-quality frontends. Today, I
+                        combine <strong>over a decade</strong> of software
+                        engineering experience with advanced expertise in AI to
+                        create smart, scalable, end-to-end solutions—bridging
+                        academic research with impactful engineering practice.
                       </p>
                     </div>
                   </div>
