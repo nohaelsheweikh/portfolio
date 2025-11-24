@@ -21,6 +21,32 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article
                     className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Senior Fullstack Developer (Part-time), Appy Ventures,
+                          UK <span>JUN 2025 - Present</span>
+                        </h2>
+                        <p>
+                          Rejoined the company during MSc studies to lead
+                          development across React, React Native, Flutter , and
+                          Flask projects. Acted as the AI specialist, providing
+                          technical guidance and integrating AI-driven solutions
+                          into client applications. Took ownership of mobile and
+                          frontend development, while expanding into backend
+                          systems to build and scale full-stack applications.
+                        </p>
+                        <a href="https://appyventures.com/">View Project</a>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
                     data-animate-effect="fadeInRight"
                   >
                     <div className="timeline-entry-inner">
@@ -30,29 +56,17 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Master's Degree in Artificial Intelligence, Surrey
-                          University
-                          <span>
-                            {" "}
-                            United Kingdom, September 2024 – August 2025
-                          </span>
+                          University with Distinction <br />
+                          <span> United Kingdom, September 2024 – 2025</span>
                         </h2>
                         <p>
-                          This MSc program focuses on core areas in machine
-                          learning, deep learning, natural language processing,
-                          and AI ethics. Through hands-on coursework and
-                          practical projects, I have developed and deployed AI
-                          models using Python, Flask, and Hugging Face Spaces.
-                          My current research focuses on real-time cognitive
-                          load detection in virtual reality (VR), where I am
-                          developing a machine learning model and building a
-                          custom Unity application to collect and analyze user
-                          interaction data. As part of my Applied Machine
-                          Learning coursework, I fine-tuned a Swin Transformer
-                          Large model for scene recognition using the
-                          Places2_simp dataset (40 scene categories). I handled
-                          preprocessing, model setup, training, and evaluation.
-                          The model achieved 81.5% Top-1 accuracy and 98% Top-5
-                          accuracy on the validation set.
+                          MSc in Artificial Intelligence (Distinction) –
+                          University of Surrey, UK 2024 – 2025 Graduated with
+                          Distinction. Specialised in machine learning, deep
+                          learning, NLP, computer vision, and VR-based
+                          behavioural analysis. Completed a VR cognitive-load
+                          research project involving real-time ML modelling and
+                          interaction-pattern analytics.
                         </p>
                         <a href="https://huggingface.co/spaces/Noha90/AML_16">
                           {" "}
@@ -72,7 +86,9 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           React Native & Flask Developer (Part-Time){" "}
-                          <span>Startup-United Kingdom, Feb 2025 – June 2025</span>
+                          <span>
+                            Startup-United Kingdom, Feb 2025 – June 2025
+                          </span>
                         </h2>
                         <p>
                           ● Contributed to a dynamic UK-based startup project
@@ -100,7 +116,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Senior Mobile developer at Jay Shetty Genius{" "}
-                          <span>USA, April 2024-December 2024</span>
+                          <span>USA, April 2024-September 2024</span>
                         </h2>
                         <p>
                           ● Resolved critical issues in the live React Native
@@ -138,7 +154,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Senior & frontend lead (Flutter / React Native / React
-                          JS) at AppyVentures <span>Farnham,UK</span>
+                          JS) at Appy Ventures <span>Farnham,UK</span>
                           <span> July 2021 - June 2024</span>
                         </h2>
                         <p>
