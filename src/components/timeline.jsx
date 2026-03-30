@@ -29,17 +29,35 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Senior Fullstack Developer (Part-time), Appy Ventures,
-                          UK <span>JUN 2025 - Present</span>
+                          Tech Lead, Appy Ventures, UK{" "}
+                          <span>JUN 2025 - Present</span>
                         </h2>
                         <p>
-                          Rejoined the company during MSc studies to lead
-                          development across React, React Native, Flutter , and
-                          Flask projects. Acted as the AI specialist, providing
-                          technical guidance and integrating AI-driven solutions
-                          into client applications. Took ownership of mobile and
-                          frontend development, while expanding into backend
-                          systems to build and scale full-stack applications.
+                          Led end-to-end engineering across frontend, mobile,
+                          and backend systems, driving technical direction and
+                          delivery using React, React Native, Flutter, FastAPI,
+                          and scalable backend services.
+                        </p>
+                        <p>
+                          Owned full product delivery lifecycle, designing and
+                          implementing APIs, system architecture, and
+                          integrations to support scalable and maintainable
+                          solutions.
+                        </p>
+                        <p>
+                          Mentored and guided junior developers, improving code
+                          quality, collaboration, and engineering best practices
+                          across the team.
+                        </p>
+                        <p>
+                          Led the migration of legacy systems to modern
+                          architectures, significantly improving performance,
+                          scalability, and user experience.
+                        </p>
+                        <p>
+                          Delivered a cross-platform mobile application that
+                          enhanced user engagement and user satisfaction, with
+                          measurable business impact.
                         </p>
                         <a href="https://appyventures.com/">View Project</a>
                       </div>
@@ -116,7 +134,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Senior Mobile developer at Jay Shetty Genius{" "}
-                          <span>USA, April 2024-September 2024</span>
+                          <span>USA, April 2024-1 September 2024</span>
                         </h2>
                         <p>
                           ● Resolved critical issues in the live React Native
