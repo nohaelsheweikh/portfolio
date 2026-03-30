@@ -121,10 +121,11 @@ export default class About extends Component {
                     <i className="icon-data" />
                   </span>
                   <div className="desc">
-                    <h3>Frontend Developer with Backend experience</h3>
+                    <h3>Full-Stack & AI Tech Lead</h3>
                     <p>
-                      I have experience building & Designing RESTful APIs using
-                      PHP,NODE JS
+                      I design and build scalable web, mobile, and AI-driven
+                      applications, including RESTful APIs and intelligent
+                      systems using modern technologies.
                     </p>
                   </div>
                 </div>
